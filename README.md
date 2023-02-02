@@ -14,3 +14,6 @@ Project uses:
         table "profiles"
         table "gallery"
 
+WARNING:
+    This project does not contain all of the css files! So don't be surprised that it looks ugly!
+
